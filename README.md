@@ -1,7 +1,7 @@
 # How to Find Your IP Address
 
 
-[![How to Find Your IP Address](red2.png)](https://computersolve.com/how-to-find-my-ip-address/)
+[![How to Find Your IP Address](red2.png)](https://icncomputer.com/how-to-find-my-ip-address/)
 
 ## Find Your IP Address in Windows Settings
 
